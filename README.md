@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
@@ -44,7 +43,3 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
-=======
-# electron-demo
-将oxui官网打包成exe文件
->>>>>>> c60c50b41038e4942b1880cd489e8410c1d8aece
